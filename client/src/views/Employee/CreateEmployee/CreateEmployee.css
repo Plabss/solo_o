@@ -1,0 +1,74 @@
+/* .forMargin {
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
+.formContainer {
+    margin: 40px 40px
+}
+.AddPropertyTitle{
+    font-size: xx-large;
+    color: rgba(0, 0, 0, 0.705);
+    font-family: sans-serif;
+}
+
+#description{
+    height: 5rem;
+}
+.forMargin input[type=checkbox] {
+    height: 20px;
+    width: 20px;
+}
+.forMargin .checkBoxAndLabel{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1%;
+    padding: 0px 30%;
+}
+.forMargin .checkBoxAndLabel label{
+    font-size: smaller;
+    font-weight: 600;
+}
+ */
+
+
+
+
+
+
+
+
+ .forMargin {
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
+.formContainer {
+    margin: 40px 40px
+}
+.AddPropertyTitle{
+    font-size: xx-large;
+    color: rgba(0, 0, 0, 0.705);
+    font-family: sans-serif;
+}
+
+#description{
+    height: 5rem;
+}
+.forMargin input[type=checkbox] {
+    height: 20px;
+    width: 20px;
+}
+.forMargin .checkBoxAndLabel{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1%;
+    padding: 0px 30%;
+}
+.forMargin .checkBoxAndLabel label{
+    font-size: smaller;
+    font-weight: 600;
+}
+
